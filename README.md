@@ -1,61 +1,35 @@
 # Project Brain Knowledge Base
 
-**Release**: 0.0.2  
-**Status**: Foundation Sprint  
-**Last update**: 2026-07-03
+**Current Release:** 0.0.3  
+**Status:** Foundation Sprint  
+**Purpose:** Official Markdown knowledge source for Project Brain.
 
-Project Brain Knowledge Base is the source of truth for Project Brain.
+## Rule
 
-Its purpose is to preserve the knowledge, decisions, principles, governance and documentation needed to design, build and maintain complex software products with AI assistance, without losing control of the architecture or the business vision.
+Markdown is the source.  
+PDF, website, AI context packages and documentation exports are publications.
 
-## What this repository contains
+## Active structure
 
-````text
-project-brain-knowledge-base-v0.0.2/
-├── README.md
-├── CHANGELOG.md
-├── ROADMAP.md
-├── RELEASE-NOTES.md
-├── Foundation/
-│   ├── VISION.md
-│   ├── DOCUMENTS.md
-│   ├── CONSTITUTION.md
-│   ├── PHILOSOPHY.md
-│   └── MANIFESTO.md
-├── Book/
-│   ├── 00-Prologue.md
-│   ├── 01-Avant-le-premier-diagramme.md
-│   └── Assets/
-├── Templates/
-│   ├── ADR.template.md
-│   ├── SPEC.template.md
-│   ├── PLAYBOOK.template.md
-│   └── DOCUMENT.template.md
-├── AI/
-│   ├── CURRENT_CONTEXT.md
-│   └── HOW_TO_WORK_WITH_AI.md
-├── Governance/
-│   └── WORKING-METHOD.md
-└── Releases/
-    └── RELEASE-0.0.2.md
-```
+- `Foundation/` — founding documents
+- `Book/` — Project Brain Book source
+- `Governance/` — working method and rules
+- `AI/` — context files for AI collaboration
+- `Templates/` — reusable documentation templates
+- `Releases/` — release notes and delivery history
 
-## Core rule
+## Important
 
-The Markdown files are the source. PDFs, websites and AI context packages are publications generated from this source.
+Legacy folders from release 0.0.1 must be removed from GitHub:
 
-## How to use this release
+- `adr`
+- `ai-context`
+- `book`
+- `governance`
+- `prompts`
+- `specs`
+- root `VISION.md`
 
-1. Download and unzip this release.
-2. Upload the content to the GitHub repository `project-brain-knowledge-base`.
-3. Commit with the message:
+The clean version of the vision is now:
 
-```text
-Release 0.0.2 - Foundation pack
-```
-
-4. Open `ROADMAP.md` to see the next step.
-
-## Current next step
-
-Release 0.0.3 will start the first usable Project Brain application prototype.
+`Foundation/VISION.md`

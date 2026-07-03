@@ -1,56 +1,28 @@
-# AI Current Context Package
+# Current AI Context
 
-**Version**: 0.0.2  
-**Status**: Active  
-**Last Update**: 2026-07-03
-
-## Project
+## Product
 
 Project Brain
 
-## Current release
+## Current Release
 
-0.0.2 — Foundation Pack
+0.0.3
 
-## Current objective
+## Current Focus
 
-Build the knowledge base foundation before starting the application prototype.
+Cleanup of the knowledge base and preparation for the first Project Brain UI prototype.
 
-## Active documents
+## Active Documents
 
-- `Foundation/VISION.md`
-- `Foundation/DOCUMENTS.md`
-- `Foundation/CONSTITUTION.md`
-- `Foundation/PHILOSOPHY.md`
-- `Foundation/MANIFESTO.md`
-- `ROADMAP.md`
-- `CHANGELOG.md`
+- Foundation/VISION.md
+- Foundation/DOCUMENTS.md
+- Foundation/CONSTITUTION.md
+- Foundation/PHILOSOPHY.md
+- Foundation/MANIFESTO.md
+- CHANGELOG.md
+- ROADMAP.md
+- RELEASE-NOTES.md
 
-## Current working rule
+## Next Step
 
-No long theoretical divergence unless it leads to a concrete deliverable.
-
-Each session should produce a concrete artifact.
-
-## Product hierarchy
-
-- Project Brain = independent product
-- Hospitality ERP Platform = first product governed by Project Brain
-- dunesdebeniouassine = first tenant of Hospitality ERP Platform
-
-## Core principles
-
-- Documentation is the source of truth.
-- Markdown is the source format.
-- PDF and websites are publications.
-- AI proposes; humans decide.
-- The Product Owner should not carry technical complexity.
-- The system must survive its authors.
-
-## Next planned release
-
-0.0.3 — First Project Brain application prototype.
-
-## Instruction for AI assistant
-
-When this file is provided at the beginning of a conversation, resume from the roadmap and avoid re-opening foundational debates unless explicitly requested.
+Release 0.0.4 — First Project Brain UI Prototype.

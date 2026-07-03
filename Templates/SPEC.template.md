@@ -1,56 +1,16 @@
-# SPEC-XXXX — Title
+# SPEC-0000 — Specification Title
 
-**Version**: 0.1.0  
-**Status**: Draft  
-**Owner**: Product / Architecture  
-**Last Update**: YYYY-MM-DD
+**Status:** Draft  
+**Version:** 0.1.0
 
 ## Purpose
 
-Why this specification exists.
-
 ## Scope
-
-What is included and excluded.
-
-## Business need
-
-Describe the need in simple business language.
-
-## Users
-
-Who uses this feature.
 
 ## Requirements
 
-### Functional requirements
+## Business Rules
 
-- FR-001: ...
+## Acceptance Criteria
 
-### Non-functional requirements
-
-- NFR-001: ...
-
-## Business rules
-
-- BR-001: ...
-
-## Data impact
-
-- ...
-
-## UI impact
-
-- ...
-
-## Security impact
-
-- ...
-
-## Tests
-
-- TEST-001: ...
-
-## Related documents
-
-- ...
+## Related Documents

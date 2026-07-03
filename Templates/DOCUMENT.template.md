@@ -1,29 +1,19 @@
-# Title
+# Document Title
 
-**Document ID**: DOC-XXXX  
-**Version**: 0.1.0  
-**Status**: Draft  
-**Owner**: ...  
-**Last Update**: YYYY-MM-DD
+**Document ID:**  
+**Version:**  
+**Status:** Draft  
+**Owner:**  
+**Last Update:**  
 
 ## Purpose
 
-Why this document exists.
+## Scope
 
 ## Audience
 
-Who should read this document.
-
-## Scope
-
-What this document covers.
-
-## Related documents
-
-- ...
-
----
+## Related Documents
 
 ## Content
 
-Start writing here.
+## Changelog

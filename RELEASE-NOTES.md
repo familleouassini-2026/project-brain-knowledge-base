@@ -1,44 +1,40 @@
-# Release Notes — Project Brain Knowledge Base 0.0.2
+# Release Notes — 0.0.3
 
-## Summary
+## Name
 
-Release 0.0.2 creates the first structured Foundation Pack for Project Brain.
+Cleanup Release
 
-The goal is not to finish the whole methodology. The goal is to provide a concrete, versioned, usable basis that can be uploaded to GitHub and used as the official knowledge source for the next work sessions.
+## Objective
 
-## Main deliverables
+Clean the repository after the first manual upload and remove duplicate old folders.
 
-- Vision document
-- Document registry
-- Constitution
-- Philosophy
-- Manifesto
-- Book prologue
-- First chapter of the book
-- Templates for future ADR, SPEC, PLAYBOOK and DOCUMENT files
-- AI context file
-- Working method
-- Roadmap and changelog
+## Why this release exists
 
-## What this release changes
+Release 0.0.2 introduced the new structure, but older folders from the first upload remained in GitHub. This release clarifies what must be kept and what must be removed.
 
-From now on, conversations are no longer the memory of the project.
+## Keep
 
-The repository becomes the memory.
+- `AI`
+- `Book`
+- `Foundation`
+- `Governance`
+- `Releases`
+- `Templates`
+- `README.md`
+- `CHANGELOG.md`
+- `ROADMAP.md`
+- `RELEASE-NOTES.md`
 
-Each important idea must be transformed into a file, a release note, a changelog entry, a decision or a future task.
+## Delete from GitHub
 
-## Validation checklist
+- `adr`
+- `ai-context`
+- `book`
+- `governance`
+- `prompts`
+- `specs`
+- root `VISION.md`
 
-- [ ] Files uploaded to GitHub
-- [ ] Commit created
-- [ ] README visible at repository root
-- [ ] `Foundation/` folder visible
-- [ ] `ROADMAP.md` visible
-- [ ] `AI/CURRENT_CONTEXT.md` visible
+## Next release
 
-## Recommended commit message
-
-```text
-Release 0.0.2 - Foundation pack
-```
+Release 0.0.4 will start the first real Project Brain UI prototype.

@@ -1,37 +1,14 @@
-# ADR-XXXX — Title
+# ADR-0000 — Decision Title
 
-**Status**: Proposed | Accepted | Rejected | Superseded  
-**Date**: YYYY-MM-DD  
-**Owner**: Architecture
+**Status:** Proposed  
+**Date:** YYYY-MM-DD
 
 ## Context
 
-Describe the situation and the problem.
-
 ## Decision
 
-Describe the decision made.
-
-## Alternatives considered
-
-- Option A
-- Option B
-- Option C
+## Alternatives
 
 ## Consequences
 
-### Positive
-
-- ...
-
-### Negative
-
-- ...
-
-### Risks
-
-- ...
-
-## Related documents
-
-- ...
+## Related Documents
