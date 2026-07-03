@@ -10,7 +10,7 @@ Its purpose is to preserve the knowledge, decisions, principles, governance and 
 
 ## What this repository contains
 
-```text
+````text
 project-brain-knowledge-base-v0.0.2/
 ├── README.md
 ├── CHANGELOG.md
