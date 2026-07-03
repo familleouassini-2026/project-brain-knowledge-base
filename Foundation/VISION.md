@@ -1,5 +1,4 @@
 # Project Brain Vision
-# test
 
 **Document ID:** FS-001  
 **Version:** 1.0.0  
