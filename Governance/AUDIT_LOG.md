@@ -73,3 +73,11 @@ This file is automatically updated by Project Brain.
 - Commit: 3ed037b423eaffab63f811b5807d6c1b5516d81a
 - Message: Create manual impact analysis - Governance/Impact/IMPACT_FS-001_2026-07-03-20-36-40.md
 - Reason: Création d'une fiche d'impact manuel sans API payante.
+
+## 2026-07-03T20:43:36.954Z
+
+- Action: create-adr
+- Path: Governance/ADR/ADR_2026-07-03_DECISION_1.md
+- Commit: ead3ce85d5a8e54ffd2f3103f43579bd2fd60859
+- Message: Create ADR - Governance/ADR/ADR_2026-07-03_DECISION_1.md
+- Reason: raison
